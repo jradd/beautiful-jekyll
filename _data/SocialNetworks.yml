@@ -8,37 +8,37 @@
 
 facebook:
   name: "Facebook"
-  baseURL: "https://www.facebook.com/"
+  baseURL: "https://www.facebook.com/jeremytredd"
   icon: "fa-facebook"
 
 github:
   name: "GitHub"
-  baseURL: "https://github.com/"
+  baseURL: "https://github.com/jtredd"
   icon: "fa-github"
 
 twitter:
   name: "Twitter"
-  baseURL: "https://twitter.com/"
+  baseURL: "https://twitter.com/jeremytredd"
   icon: "fa-twitter"
 
 reddit:
   name: "Reddit"
-  baseURL: "https://reddit.com/u/"
+  baseURL: "https://reddit.com/u/jradd"
   icon: fa-reddit
 
 google-plus:
   name: "Google+"
-  baseURL: "https://plus.google.com/"
+  baseURL: "https://plus.google.com/JeremyRedd+"
   icon: "fa-google-plus"
 
 email:
   name: "Email me"
-  baseURL: "mailto:"
+  baseURL: "mailto: contact@jeremyredd.com"
   icon: "fa-envelope"
 
 linkedin:
   name: "LinkedIn"
-  baseURL: "https://linkedin.com/in/"
+  baseURL: "https://linkedin.com/in/jeremytredd"
   icon: "fa-linkedin"
 
 xing:
